@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Award, Youtube, Bot, TrendingUp } from "lucide-react";
+import { Award, Youtube, Bot, TrendingUp, Instagram } from "lucide-react";
 import curtPhoto from "@/assets/curt-bercht.jpg";
 
 const highlights = [
@@ -49,7 +49,16 @@ const AboutSection = () => {
                 </div>
               ))}
             </div>
-          </div>
+            </div>
+
+            <div className="flex gap-4 mt-6">
+              <a href="https://www.instagram.com/curtbercht/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
+                <Instagram className="w-5 h-5" />
+              </a>
+              <a href="https://www.youtube.com/@novomarketingimobiliario" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
+                <Youtube className="w-5 h-5" />
+              </a>
+            </div>
         </motion.div>
       </div>
     </section>
