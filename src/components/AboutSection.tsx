@@ -55,7 +55,7 @@ const AboutSection = () => {
               <a href="https://www.instagram.com/curtbercht/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
                 <Instagram className="w-6 h-6" />
               </a>
-              <a href="https://www.youtube.com/@novomarketingimobiliario" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
+              <a href="https://www.youtube.com/@novomarketingimobiliario?sub_confirmation=1" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
                 <Youtube className="w-6 h-6" />
               </a>
             </div>
