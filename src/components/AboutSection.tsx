@@ -51,12 +51,12 @@ const AboutSection = () => {
             </div>
             </div>
 
-            <div className="flex gap-4 mt-6">
-              <a href="https://www.instagram.com/curtbercht/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
-                <Instagram className="w-5 h-5" />
+            <div className="flex justify-center gap-5 mt-6">
+              <a href="https://www.instagram.com/curtbercht/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
+                <Instagram className="w-6 h-6" />
               </a>
-              <a href="https://www.youtube.com/@novomarketingimobiliario" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
-                <Youtube className="w-5 h-5" />
+              <a href="https://www.youtube.com/@novomarketingimobiliario" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full bg-accent/10 flex items-center justify-center text-accent hover:bg-accent hover:text-white transition-colors">
+                <Youtube className="w-6 h-6" />
               </a>
             </div>
         </motion.div>
