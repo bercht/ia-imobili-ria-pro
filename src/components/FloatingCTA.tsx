@@ -15,7 +15,7 @@ const FloatingCTA = () => {
     <AnimatePresence>
       {visible && (
         <motion.a
-          href="https://chat.whatsapp.com/SEU_LINK_AQUI"
+          href="https://chat.whatsapp.com/I7ngoBpPLreERxt1DVOJBF?mode=gi_t"
           target="_blank"
           rel="noopener noreferrer"
           initial={{ opacity: 0, scale: 0.8, y: 20 }}

@@ -38,7 +38,7 @@ const WhatYouLearnSection = () => {
             O que você vai aprender nesta aula gratuita
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Em 2 a 3 horas, você vai entender o sistema completo de marketing imobiliário com Inteligência Artificial.
+            Em 2 hs, você vai entender o sistema completo de marketing imobiliário com Inteligência Artificial.
           </p>
         </motion.div>
 
@@ -68,7 +68,7 @@ const WhatYouLearnSection = () => {
           className="text-center mt-12"
         >
           <a
-            href="https://chat.whatsapp.com/SEU_LINK_AQUI"
+            href="https://chat.whatsapp.com/I7ngoBpPLreERxt1DVOJBF?mode=gi_t"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-accent text-accent-foreground font-bold px-8 py-4 rounded-lg hover:brightness-110 transition-all"
