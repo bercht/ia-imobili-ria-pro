@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Award, Youtube, Bot, TrendingUp } from "lucide-react";
+import curtPhoto from "@/assets/curt-bercht.jpg";
 
 const highlights = [
   { icon: TrendingUp, text: "Mais de 20 anos no mercado imobiliário" },
@@ -30,10 +31,8 @@ const AboutSection = () => {
           className="bg-card border border-border rounded-2xl p-8 md:p-12 max-w-3xl mx-auto"
         >
           <div className="flex flex-col items-center text-center">
-            <div className="w-24 h-24 rounded-full bg-primary/10 flex items-center justify-center mb-6 text-3xl font-bold text-primary">
-              CB
-            </div>
-            <h3 className="text-2xl font-bold text-foreground mb-1">Curt Bercht</h3>
+            <img src={curtPhoto} alt="Curt Bercht Neto" className="w-24 h-24 rounded-full object-cover mb-6" />
+            <h3 className="text-2xl font-bold text-foreground mb-1">Curt Bercht Neto</h3>
             <p className="text-muted-foreground text-sm mb-6">Especialista em Marketing Imobiliário</p>
 
             <p className="text-muted-foreground leading-relaxed mb-8 max-w-xl">
