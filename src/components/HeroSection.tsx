@@ -27,7 +27,7 @@ const HeroSection = () => {
           className="text-center"
         >
           <span className="inline-block bg-accent/10 text-accent font-semibold text-sm px-4 py-1.5 rounded-full mb-6 border border-accent/20">
-            🔴 Aula ao vivo — 5 de março
+            🔴 Aula ao vivo — 7 de abril
           </span>
 
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold leading-tight mb-6 max-w-4xl mx-auto">
@@ -37,7 +37,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-hero-muted text-lg md:text-xl max-w-2xl mx-auto mb-8 leading-relaxed">
-            Participe de uma aula online de 2 hs no dia 5 de março e descubra o método completo de marketing imobiliário com IA.
+            Participe de uma aula online de 2 hs no dia 7 de abril e descubra o método completo de marketing imobiliário com IA.
           </p>
 
           <ul className="flex flex-wrap justify-center gap-x-6 gap-y-3 mb-10 text-sm md:text-base">
